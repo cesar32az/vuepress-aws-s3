@@ -1,0 +1,5 @@
+profile = "gow"
+region  = "us-east-2"
+domain_name = "example-static-website1"
+website_root = "../dist"
+environment = "dev"
