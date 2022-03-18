@@ -1,5 +1,5 @@
-profile = "gow"
+profile = "default"
 region  = "us-east-2"
 domain_name = "example-static-website1"
-website_root = "../dist"
+website_root = "../vuepress-starter/dist"
 environment = "dev"

@@ -1,6 +1,3 @@
-# build files
-dist/
-
 # Local .terraform directories
 **/.terraform/*
 

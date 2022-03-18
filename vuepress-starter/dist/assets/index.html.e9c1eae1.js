@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,heroImage:"img/logo.png",tagline:"Docs website",actions:[{text:"Start",link:"/guide/",type:"primary"}],footer:"2022 JR. All Rights Reserved."},excerpt:"",headers:[],filePathRelative:"README.md"};export{e as data};
