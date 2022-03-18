@@ -13,5 +13,6 @@ npm run build
 ``` sh
 cd terraform
 terraform init
-terraform plan -var-file="terraform.tfvars"
+terraform plan -var-file="prod.tfvars"
+terraform apply -var-file="prod.tfvars"
 ```
